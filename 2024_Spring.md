@@ -1,5 +1,7 @@
 # KHU PerCV LAB seminar
 
+2024 Spring
+
 ## Archive
 
 | Date       | Presenters     |  Topic     |
@@ -10,7 +12,7 @@
 
 ## Previous Meetings
 
-- [2024 spring](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
+- [2024 Spring](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
 
 
 ## Link for debate
