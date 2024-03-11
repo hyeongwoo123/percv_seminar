@@ -1,10 +1,4 @@
-# KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
-
-
-## Table of Contents
-
-- [Previous Meetings](#previous-meetings)
-
+# KHU PerCV LAB seminar
 
 ## Archive
 
