@@ -1,41 +1,69 @@
 # KHU PerCV LAB seminar
 
-### 2024 Spring <br /><br /><br />
-
-## Archive
+### 2024 Spring <br /><br />
+### Archive <br />
 
 
 <table border="1" bordercolor="blue" align = "center" >
     <tr align = "center">
   <td>Date</td>
 	<td>Presenters</td>
-	<td>Topic</td>
+	<td>File</td>
+	<td>Topic</td>  
     </tr>
     <tr>
-  <td rowspan="2" align = "center" >03/08</td>
-	<td>Hyeongwoo</td>
-  <td><a href="https://docs.google.com/presentation/d/1d_K-lVvJ3I4w_uBvxbM1nt6Srpf_IR7O/edit?usp=sharing&ouid=100024562668277080804&rtpof=true&sd=true">[Slides]</a></td>
+  <td rowspan="5" align = "center" >03/08</td>
+		  <td>Hyeongwoo</td>
+		  <td><a href="https://docs.google.com/presentation/d/1d_K-lVvJ3I4w_uBvxbM1nt6Srpf_IR7O/edit?usp=sharing&ouid=100024562668277080804&rtpof=true&sd=true" target="_blank">Slides</a></td>
+		  <td>Conditional Image Synthesis With Auxiliary Classifier GANs <a href="https://arxiv.org/abs/1610.09585" target="_blank">[Augustus Odena, et al., ICML 2017]</td>
     </tr>
     <tr>
-	<td>Jiho</td>
-	<td>965,000</td>	
+		  <td>Jiho</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Dayeon</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Heawon</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Seunghwan</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+
+		 
+  <td rowspan="4" align = "center" >03/07</td>
+		  <td>Hyunsoo</td>
+		  <td><a href="#" target="_blank">Slides</a></td>	
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Fita</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Wajahat</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+    </tr>
+    <tr>
+		  <td>Asifa</td>
+		  <td><a href="#" target="_blank">Slides</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
 </table>
 
 
 
-
-| Date       | Presenters     |  Topic    |
-|------------|----------------|-----------|
-| 03/08 |   Hyeongwoo  <br /><br />   Jiho  <br /><br />   Dayeon  <br /><br />   Seunghwan  <br /><br />   Haewon  <br /><br />| Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [[slides](https://docs.google.com/presentation/d/1d_K-lVvJ3I4w_uBvxbM1nt6Srpf_IR7O/edit?usp=sharing&ouid=100024562668277080804&rtpof=true&sd=true)] <br  /> <br  /> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [[slides](https://docs.google.com/presentation/d/1WhaASVDE10fKNUHfFqobsEvA7mGsXgFnbeSq2LqJa2A/edit#slide=id.p)]|
-| 03/07 |  Hyunsoo  <br /><br />   Fita  <br /><br />  Wajahat  <br /><br />  Asifa  <br /><br />  |Proposal-based Multiple Instance Learning for Weakly-supervised Temporal Action Localization [[Huan Ren, et al., CVPR 2023](https://arxiv.org/pdf/2305.17861.pdf)] [[slides](https://docs.google.com/presentation/d/1bZsOTwlCpcKcLYetT8rerxXSr5wU4v8H/edit#slide=id.p1)] <br /> <br  /> Calibrating Multimodal Learning [[Huan Ma, et al., ICML 2023](https://arxiv.org/pdf/2306.01265.pdf)] [[slides](https://docs.google.com/presentation/d/16Q_WTcMOe9fokbGVlOa1Ad1m46WrOR5s/edit#slide=id.p1)]|
-
-
-## Previous Meetings
+## Previous Seminars
 
 - [2024 Spring](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
-
-
-## Link for debate
-
-[here](https://docs.google.com/spreadsheets/d/1tEug71Jg0ucKJfyBy3qisrGZPR49HNdAPeHI1QCu-9A/edit?usp=sharing).
