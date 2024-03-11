@@ -43,7 +43,7 @@
   <td rowspan="4" align = "center" >03/07</td>
 		  <td height=70><b>Hyunsoo</b></td>
 		  <td><a href="https://docs.google.com/presentation/d/19KLOE44GmTDQQeUJ1XoUvCxZEfaRAhfg/edit?usp=drive_link&ouid=114622088787202833283&rtpof=true&sd=true" target="_blank">Slides</a></td>	
-			<td>Posterior Collapse and Latent Variable Non-identifiability <a href="https://proceedings.neurips.cc/paper/2021/file/2b6921f2c64dee16ba21ebf17f3c2c92-Paper.pdf" target="_blank">[Wang et al. NIPS 2021]</a></td>
+			<td>Posterior Collapse and Latent Variable Non-identifiability <a href="https://proceedings.neurips.cc/paper/2021/file/2b6921f2c64dee16ba21ebf17f3c2c92-Paper.pdf" target="_blank">[Wang et al., NIPS 2021]</a></td>
     </tr>
     <tr>
 		  <td><b>Fita</b></td>
