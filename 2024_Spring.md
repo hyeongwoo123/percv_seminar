@@ -72,4 +72,4 @@
 
 ## Link for debate
 
-- [Github issues](https://github.com/hyeongwoo123/percv_seminar/issues)
+- [Here (Github issues page)](https://github.com/hyeongwoo123/percv_seminar/issues)
