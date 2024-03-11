@@ -1,7 +1,7 @@
 # KHU PerCV LAB seminar
 
 ### 2024 Spring <br /><br />
-### Archive <br />
+## Archive <br />
 
 
 <table border="1" bordercolor="blue" align = "center" >
@@ -61,7 +61,7 @@
 			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
 </table>
-
+<br />
 
 
 ## Previous Seminars
