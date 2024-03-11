@@ -3,7 +3,6 @@
 ### 2024 March <br /><br />
 ## Archive <br />
 
-
 <table border="1" bordercolor="blue" align = "center" >
     <tr align = "center">
   <td>Date</td>
@@ -34,12 +33,12 @@
     </tr>
     <tr>
 		  <td height=70><b>Seunghwan</b></td>
-		  <td><a href="#" target="_blank">Slides</a></td>
-		  <td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
+		  <td><a href="https://github.com/overnap/lab-seminar/raw/master/ICIP%20Submission.pptx" target="_blank">Slides</a></td>
+		  <td>N/A</td>
     </tr>
     <tr>
 
-		 
+
   <td rowspan="4" align = "center" >03/07</td>
 		  <td height=70><b>Hyunsoo</b></td>
 		  <td><a href="https://docs.google.com/presentation/d/19KLOE44GmTDQQeUJ1XoUvCxZEfaRAhfg/edit?usp=drive_link&ouid=114622088787202833283&rtpof=true&sd=true" target="_blank">Slides</a></td>	
