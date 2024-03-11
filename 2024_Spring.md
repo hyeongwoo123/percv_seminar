@@ -10,7 +10,7 @@
 
 ## Previous Meetings
 
-- [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
+- [Summer~Fall 2021](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
 
 
 ## Link for debate
