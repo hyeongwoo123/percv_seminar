@@ -10,9 +10,9 @@
 
 ## Previous Meetings
 
-- [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md)
+- [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md](https://github.com/hyeongwoo123/percv_seminar/blob/main/2024_Spring.md)
 
 
-## Suggested Papers
+## Link for debate
 
-We maintain a pool of suggested papers [here](https://docs.google.com/spreadsheets/d/1tEug71Jg0ucKJfyBy3qisrGZPR49HNdAPeHI1QCu-9A/edit?usp=sharing).
+[here](https://docs.google.com/spreadsheets/d/1tEug71Jg0ucKJfyBy3qisrGZPR49HNdAPeHI1QCu-9A/edit?usp=sharing).
