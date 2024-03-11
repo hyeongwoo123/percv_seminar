@@ -54,11 +54,6 @@
 		  <td height=70><a href="https://docs.google.com/presentation/d/1Jgc9tbX9131wMMirw9GKoSirwm2XHAP4/edit?usp=sharing&ouid=117439560442386961188&rtpof=true&sd=true" target="_blank">Slides</a></td>
 		  <td>Network In Network <a href="https://arxiv.org/pdf/1312.4400.pdf" target="_blank">[Min Lin et al., ICLR 2014]</a></td>
     </tr>
-    <tr>
-		  <td><b>Asifa</b></td>
-		  <td height=70><a href="#" target="_blank">Slides</a></td>
-		  <td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
-    </tr>
 </table>
 <br />
 
