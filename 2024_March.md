@@ -30,7 +30,7 @@
     <tr>
 		  <td height=70><b>Heawon</b></td>
 		  <td><a href="https://docs.google.com/presentation/d/11wVIuZ1K-Lu5XNq_BcW6TzD30a4EwCEiDGHdq6xaa-A/edit?usp=sharing" target="_blank">Slides</a></td>
-			<td>Long Short-Term Memory <a href="lib.khu.ac.kr/eds/directLink/edselc_edselc.2-52.0-0031573117?moduleId=eds&linkType=plink" target="_blank">[Sepp Hochreiter, et al., Neural computation 1997 ]</a></td>
+			<td>Long Short-Term Memory <a href="#" target="_blank">[Sepp Hochreiter, et al., Neural computation 1997 ]</a></td>
     </tr>
     <tr>
 		  <td height=70><b>Seunghwan</b></td>
