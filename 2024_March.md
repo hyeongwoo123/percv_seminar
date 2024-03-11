@@ -20,22 +20,22 @@
     <tr>
 		  <td height=70><b>Jiho</b></td>
 		  <td><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td height=70><b>Dayeon</b></td>
 		  <td><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td height=70><b>Heawon</b></td>
 		  <td><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td height=70><b>Seunghwan</b></td>
 		  <td><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 
@@ -43,17 +43,17 @@
   <td rowspan="4" align = "center" >03/07</td>
 		  <td height=70><b>Hyunsoo</b></td>
 		  <td><a href="#" target="_blank">Slides</a></td>	
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td><b>Fita</b></td>
 		  <td height=70><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td><b>Wajahat</b></td>
 		  <td height=70><a href="#" target="_blank">Slides</a></td>
-			<td>Paper authors <a href="#" target="_blank">[Paper authors]</a></td>
+			<td>Paper name <a href="#" target="_blank">[Paper authors]</a></td>
     </tr>
     <tr>
 		  <td><b>Asifa</b></td>
