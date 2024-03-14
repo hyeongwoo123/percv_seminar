@@ -33,10 +33,11 @@
     </tr>
     <tr>
 		  <td height=70><b>Seunghwan</b></td>
-		  <td><a href="https://github.com/overnap/lab-seminar/raw/master/ICIP%20Submission.pptx" target="_blank">Slides</a></td>
-		  <td>N/A</td>
+		  <td><a href="https://github.com/overnap/lab-seminar/raw/master/240308%20ICIP%20Submission.pptx" target="_blank">Slides</a></td>
+		  <td>About my ICIP submission</td>
     </tr>
     <tr>
+
 
 
   <td rowspan="4" align = "center" >03/07</td>
